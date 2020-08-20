@@ -1,0 +1,70 @@
+C:\Users\andre\Desktop\inzhProgUpravlBolnic\inzhProgUpravlBolnic\bin\Release\inzhProgUpravlBolnic.exe.config
+C:\Users\andre\Desktop\inzhProgUpravlBolnic\inzhProgUpravlBolnic\bin\Release\inzhProgUpravlBolnic.exe.manifest
+C:\Users\andre\Desktop\inzhProgUpravlBolnic\inzhProgUpravlBolnic\bin\Release\inzhProgUpravlBolnic.application
+C:\Users\andre\Desktop\inzhProgUpravlBolnic\inzhProgUpravlBolnic\bin\Release\inzhProgUpravlBolnic.exe
+C:\Users\andre\Desktop\inzhProgUpravlBolnic\inzhProgUpravlBolnic\bin\Release\inzhProgUpravlBolnic.pdb
+C:\Users\andre\Desktop\inzhProgUpravlBolnic\inzhProgUpravlBolnic\bin\Release\MySql.Data.dll
+C:\Users\andre\Desktop\inzhProgUpravlBolnic\inzhProgUpravlBolnic\bin\Release\Renci.SshNet.dll
+C:\Users\andre\Desktop\inzhProgUpravlBolnic\inzhProgUpravlBolnic\bin\Release\Google.Protobuf.dll
+C:\Users\andre\Desktop\inzhProgUpravlBolnic\inzhProgUpravlBolnic\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\andre\Desktop\inzhProgUpravlBolnic\inzhProgUpravlBolnic\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\andre\Desktop\inzhProgUpravlBolnic\inzhProgUpravlBolnic\bin\Release\MySql.Data.xml
+C:\Users\andre\Desktop\inzhProgUpravlBolnic\inzhProgUpravlBolnic\bin\Release\Renci.SshNet.xml
+C:\Users\andre\Desktop\inzhProgUpravlBolnic\inzhProgUpravlBolnic\obj\Release\inzhProgUpravlBolnic.addSoob.resources
+C:\Users\andre\Desktop\inzhProgUpravlBolnic\inzhProgUpravlBolnic\obj\Release\inzhProgUpravlBolnic.addZapis.resources
+C:\Users\andre\Desktop\inzhProgUpravlBolnic\inzhProgUpravlBolnic\obj\Release\inzhProgUpravlBolnic.adminForm.resources
+C:\Users\andre\Desktop\inzhProgUpravlBolnic\inzhProgUpravlBolnic\obj\Release\inzhProgUpravlBolnic.dopInfo.resources
+C:\Users\andre\Desktop\inzhProgUpravlBolnic\inzhProgUpravlBolnic\obj\Release\inzhProgUpravlBolnic.glavrachForm.resources
+C:\Users\andre\Desktop\inzhProgUpravlBolnic\inzhProgUpravlBolnic\obj\Release\inzhProgUpravlBolnic.LoginForm.resources
+C:\Users\andre\Desktop\inzhProgUpravlBolnic\inzhProgUpravlBolnic\obj\Release\inzhProgUpravlBolnic.operForm.resources
+C:\Users\andre\Desktop\inzhProgUpravlBolnic\inzhProgUpravlBolnic\obj\Release\inzhProgUpravlBolnic.pacForm.resources
+C:\Users\andre\Desktop\inzhProgUpravlBolnic\inzhProgUpravlBolnic\obj\Release\inzhProgUpravlBolnic.Properties.Resources.resources
+C:\Users\andre\Desktop\inzhProgUpravlBolnic\inzhProgUpravlBolnic\obj\Release\inzhProgUpravlBolnic.regForm.resources
+C:\Users\andre\Desktop\inzhProgUpravlBolnic\inzhProgUpravlBolnic\obj\Release\inzhProgUpravlBolnic.regVrach.resources
+C:\Users\andre\Desktop\inzhProgUpravlBolnic\inzhProgUpravlBolnic\obj\Release\inzhProgUpravlBolnic.showSoob.resources
+C:\Users\andre\Desktop\inzhProgUpravlBolnic\inzhProgUpravlBolnic\obj\Release\inzhProgUpravlBolnic.showZapis.resources
+C:\Users\andre\Desktop\inzhProgUpravlBolnic\inzhProgUpravlBolnic\obj\Release\inzhProgUpravlBolnic.vrachForm.resources
+C:\Users\andre\Desktop\inzhProgUpravlBolnic\inzhProgUpravlBolnic\obj\Release\ИС Моя Больница.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\inzhProgUpravlBolnic\inzhProgUpravlBolnic\obj\Release\ИС Моя Больница.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\inzhProgUpravlBolnic\inzhProgUpravlBolnic\obj\Release\inzhProgUpravlBolnic.exe.manifest
+C:\Users\andre\Desktop\inzhProgUpravlBolnic\inzhProgUpravlBolnic\obj\Release\inzhProgUpravlBolnic.application
+C:\Users\andre\Desktop\inzhProgUpravlBolnic\inzhProgUpravlBolnic\obj\Release\ИС Моя Больница.csproj.CopyComplete
+C:\Users\andre\Desktop\inzhProgUpravlBolnic\inzhProgUpravlBolnic\obj\Release\inzhProgUpravlBolnic.exe
+C:\Users\andre\Desktop\inzhProgUpravlBolnic\inzhProgUpravlBolnic\obj\Release\inzhProgUpravlBolnic.pdb
+C:\Users\andre\Desktop\inzhProgUpravlBolnic\inzhProgUpravlBolnic\obj\Release\inzhProgUpravlBolnic.oProge.resources
+C:\Users\andre\Desktop\inzhProgUpravlBolnic\inzhProgUpravlBolnic\obj\Release\ИС Моя Больница.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\inzhProgUpravlBolnic — копия (2)\inzhProgUpravlBolnic\bin\Release\inzhProgUpravlBolnic.exe.config
+C:\Users\andre\Desktop\inzhProgUpravlBolnic — копия (2)\inzhProgUpravlBolnic\bin\Release\inzhProgUpravlBolnic.exe.manifest
+C:\Users\andre\Desktop\inzhProgUpravlBolnic — копия (2)\inzhProgUpravlBolnic\bin\Release\inzhProgUpravlBolnic.application
+C:\Users\andre\Desktop\inzhProgUpravlBolnic — копия (2)\inzhProgUpravlBolnic\bin\Release\inzhProgUpravlBolnic.exe
+C:\Users\andre\Desktop\inzhProgUpravlBolnic — копия (2)\inzhProgUpravlBolnic\bin\Release\inzhProgUpravlBolnic.pdb
+C:\Users\andre\Desktop\inzhProgUpravlBolnic — копия (2)\inzhProgUpravlBolnic\bin\Release\MySql.Data.dll
+C:\Users\andre\Desktop\inzhProgUpravlBolnic — копия (2)\inzhProgUpravlBolnic\bin\Release\Renci.SshNet.dll
+C:\Users\andre\Desktop\inzhProgUpravlBolnic — копия (2)\inzhProgUpravlBolnic\bin\Release\Google.Protobuf.dll
+C:\Users\andre\Desktop\inzhProgUpravlBolnic — копия (2)\inzhProgUpravlBolnic\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\andre\Desktop\inzhProgUpravlBolnic — копия (2)\inzhProgUpravlBolnic\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\andre\Desktop\inzhProgUpravlBolnic — копия (2)\inzhProgUpravlBolnic\bin\Release\MySql.Data.xml
+C:\Users\andre\Desktop\inzhProgUpravlBolnic — копия (2)\inzhProgUpravlBolnic\bin\Release\Renci.SshNet.xml
+C:\Users\andre\Desktop\inzhProgUpravlBolnic — копия (2)\inzhProgUpravlBolnic\obj\Release\inzhProgUpravlBolnic.addSoob.resources
+C:\Users\andre\Desktop\inzhProgUpravlBolnic — копия (2)\inzhProgUpravlBolnic\obj\Release\inzhProgUpravlBolnic.addZapis.resources
+C:\Users\andre\Desktop\inzhProgUpravlBolnic — копия (2)\inzhProgUpravlBolnic\obj\Release\inzhProgUpravlBolnic.adminForm.resources
+C:\Users\andre\Desktop\inzhProgUpravlBolnic — копия (2)\inzhProgUpravlBolnic\obj\Release\inzhProgUpravlBolnic.dopInfo.resources
+C:\Users\andre\Desktop\inzhProgUpravlBolnic — копия (2)\inzhProgUpravlBolnic\obj\Release\inzhProgUpravlBolnic.glavrachForm.resources
+C:\Users\andre\Desktop\inzhProgUpravlBolnic — копия (2)\inzhProgUpravlBolnic\obj\Release\inzhProgUpravlBolnic.LoginForm.resources
+C:\Users\andre\Desktop\inzhProgUpravlBolnic — копия (2)\inzhProgUpravlBolnic\obj\Release\inzhProgUpravlBolnic.operForm.resources
+C:\Users\andre\Desktop\inzhProgUpravlBolnic — копия (2)\inzhProgUpravlBolnic\obj\Release\inzhProgUpravlBolnic.oProge.resources
+C:\Users\andre\Desktop\inzhProgUpravlBolnic — копия (2)\inzhProgUpravlBolnic\obj\Release\inzhProgUpravlBolnic.pacForm.resources
+C:\Users\andre\Desktop\inzhProgUpravlBolnic — копия (2)\inzhProgUpravlBolnic\obj\Release\inzhProgUpravlBolnic.Properties.Resources.resources
+C:\Users\andre\Desktop\inzhProgUpravlBolnic — копия (2)\inzhProgUpravlBolnic\obj\Release\inzhProgUpravlBolnic.regForm.resources
+C:\Users\andre\Desktop\inzhProgUpravlBolnic — копия (2)\inzhProgUpravlBolnic\obj\Release\inzhProgUpravlBolnic.regVrach.resources
+C:\Users\andre\Desktop\inzhProgUpravlBolnic — копия (2)\inzhProgUpravlBolnic\obj\Release\inzhProgUpravlBolnic.showSoob.resources
+C:\Users\andre\Desktop\inzhProgUpravlBolnic — копия (2)\inzhProgUpravlBolnic\obj\Release\inzhProgUpravlBolnic.showZapis.resources
+C:\Users\andre\Desktop\inzhProgUpravlBolnic — копия (2)\inzhProgUpravlBolnic\obj\Release\inzhProgUpravlBolnic.vrachForm.resources
+C:\Users\andre\Desktop\inzhProgUpravlBolnic — копия (2)\inzhProgUpravlBolnic\obj\Release\ИС Моя Больница.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\inzhProgUpravlBolnic — копия (2)\inzhProgUpravlBolnic\obj\Release\ИС Моя Больница.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\inzhProgUpravlBolnic — копия (2)\inzhProgUpravlBolnic\obj\Release\inzhProgUpravlBolnic.exe.manifest
+C:\Users\andre\Desktop\inzhProgUpravlBolnic — копия (2)\inzhProgUpravlBolnic\obj\Release\inzhProgUpravlBolnic.application
+C:\Users\andre\Desktop\inzhProgUpravlBolnic — копия (2)\inzhProgUpravlBolnic\obj\Release\ИС Моя Больница.csproj.CopyComplete
+C:\Users\andre\Desktop\inzhProgUpravlBolnic — копия (2)\inzhProgUpravlBolnic\obj\Release\inzhProgUpravlBolnic.exe
+C:\Users\andre\Desktop\inzhProgUpravlBolnic — копия (2)\inzhProgUpravlBolnic\obj\Release\inzhProgUpravlBolnic.pdb
+C:\Users\andre\Desktop\inzhProgUpravlBolnic — копия (2)\inzhProgUpravlBolnic\obj\Release\ИС Моя Больница.csprojAssemblyReference.cache

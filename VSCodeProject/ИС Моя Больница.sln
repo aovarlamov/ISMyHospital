@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ИС Моя Больница", "inzhProgUpravlBolnic\ИС Моя Больница.csproj", "{89E9D240-5E66-477D-95E0-D11F332A07CB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Установка ИС Моя Больница", "Установка ИС Моя Больница\Установка ИС Моя Больница.vdproj", "{F05E7FC2-C583-46E6-B6EF-6D0C46308D69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89E9D240-5E66-477D-95E0-D11F332A07CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89E9D240-5E66-477D-95E0-D11F332A07CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89E9D240-5E66-477D-95E0-D11F332A07CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89E9D240-5E66-477D-95E0-D11F332A07CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F05E7FC2-C583-46E6-B6EF-6D0C46308D69}.Debug|Any CPU.ActiveCfg = Debug
+		{F05E7FC2-C583-46E6-B6EF-6D0C46308D69}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F4291D2-9B0F-4D4C-9747-1AC2AE14CBEF}
+	EndGlobalSection
+EndGlobal
